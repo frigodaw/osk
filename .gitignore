@@ -1,0 +1,8 @@
+#ignore folders
+__pycache__
+migrations/*
+
+#ignore files
+
+#exclude
+!migrations/__init__.py
